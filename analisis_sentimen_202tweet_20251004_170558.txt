@@ -1,0 +1,319 @@
+ANALISIS SENTIMEN 202 TWEET - POLEMIK ETANOL BBM PERTAMINA
+======================================================================
+
+HASIL KLASIFIKASI:
+----------------------------------------
+Tweet 1 -> Netral: Informatif, menyampaikan masalah pengguna tentang transparansi dan kepercayaan dalam penjualan BBM dengan etanol.
+
+Tweet 2 -> Negatif: Kritik terhadap kasus yang terjadi karena tidak mau membayar 3.5% etanol dengan harga BBM saja.
+
+Tweet 3 -> Netral: Faktual, menyebutkan kandungan bioetanol dalam BBM Pertamina.
+
+Tweet 4 -> Netral: Informatif, menambahkan informasi bahwa konsumen mengetahui kandungan etanol setelah kasus Pertamax Oplosan.
+
+Tweet 5 -> Netral: Faktual, menanyakan alasan kandungan etanol di BBM Pertamina.
+
+Tweet 6 -> Netral: Faktual, meminta penjelasan apakah kandungan etanol di BBM Pertamina berbahaya bagi mobil.
+
+Tweet 7 -> Positif: Dukungan terhadap kerja sama energi tetap dan keamanan kualitas BBM nasional dengan kandungan etanol.
+
+Tweet 8 -> Negatif: Kritik terhadap BP dan Vivo yang menolak BBM Pertamina akibat kandungan etanol yang mereka anggap terlalu tinggi dan bisa mengganggu mesin.
+
+Tweet 9 -> Netral: Faktual, menyampaikan perspektif pembeli (Vivo dan BP) yang memiliki standar tanpa etanol dan respons pemerintah dalam import bahan bakar.
+
+Tweet 10 -> Negatif: Kritik terhadap Vivo dan BP yang menolak BBM Pertamina akibat kandungan etanol dan dampaknya pada mesin kendaraan.
+
+Tweet 11 -> Negatif: Kritik terhadap barang yang tidak sesuai spesifikasi masih dijual.
+
+Tweet 12 -> Negatif: Kritik terhadap SPBU swasta yang menolak BBM Pertamina akibat kandungan etanol yang dapat menyebabkan kerusakan mesin.
+
+Tweet 13 -> Netral: Faktual, menyebutkan alasan Vivo dan BP yang menolak BBM Pertamina karena kandungan etanol.
+
+Tweet 14 -> Negatif: Kritik terhadap polemik base fuel Pertamina dan DPR yang ingin pemerintah hormati standar teknis.
+
+Tweet 15 -> Netral: Faktual, membahas regulasi di Eropa yang memungkinkan kandungan etanol hingga 10% dalam bensin E10, sedangkan Malaysia fokus pada biodiesel dari minyak sawit.
+
+Tweet 16 -> Netral: Faktual, meminta penjelasan mengapa Shell memungkinkan kandungan etanol sampai 10% di negara-negara lain tetapi tidak di Malaysia.
+
+Tweet 17 -> Netral: Faktual, menanyakan aturan dan perspektif pembeli yang tidak mau etanol dalam bensin.
+
+Tweet 18 -> Negatif: Kritik terhadap Pertamina yang tidak taat dengan kesepakatan dan mengcampur etanol dalam base fuel yang tidak sesuai dengan keinginan Vivo.
+
+Tweet 19 -> Negatif: Kritik terhadap Pertamina yang menjual oplosan (base fuel dengan etanol) tanpa diketahui oleh Vivo.
+
+Tweet 20 -> Netral: Faktual, menanyakan dampak kandungan etanol 3.5% dalam BBM impor.
+
+Tweet 21 -> Negatif: Kritik terhadap Shell dan SPBU swasta lain yang menolak BBM Pertamina akibat kandungan etanol 3.5% yang dianggap tidak sesuai spesifikasi internal mereka.
+
+Tweet 22 -> Netral: Faktual, menyampaikan bahwa persentase etanol tetap pada BBM pertamina, tetapi bisa bertambah jika ada blending tambahan.
+
+Tweet 23 -> Netral: Tidak ada konteks untuk klasifikasi; hanya menyebut "kandungan etanol".
+
+Tweet 24 -> Netral: Faktual, menyebutkan pendapat pakar UI tentang kandungan etanol dalam BBM.
+
+Tweet 25 -> Netral: Faktual, menyebutkan bahwa produk dengan kandungan etanol 10% tidak memiliki batas penerimaannya.
+
+Tweet 26 -> Negatif: Kritik terhadap pembeli yang tidak mau etanol dalam BBM seperti orang yang tidak mau pedas tetapi mendapatkan cabai (etanol).
+
+Tweet 27 -> Negatif: Kritik terhadap Vivo, BPAKR, dan Shell yang belum membeli base fuel dari Pertamina akibat kandungan etanol yang sedang dipertimbangkan.
+
+Tweet 28 -> Negatif: Kritik terhadap kekhawatiran tentang kandungan etanol dalam BBM dan penggunaan alternatif sepertuannya dalam minuman oplosan.
+
+Tweet 29 -> Netral: Faktual, menyebutkan Pertamina menjual BBM dengan campuran etanol sejak 2023, tetapi Shell dan Vivo menolak karena tidak sesuai standar mereka.
+
+Tweet 30 -> Negatif: Kritik terhadap dampak negatif kandungan etanol 3.5% dalam BBM, seperti performa mesin yang terganggu dan risiko korosi pada kendaraan lama.
+
+Tweet 31 -> Positif: Dukungan terhadap standar BBM nasional dan kolaborasi energi tetap.
+
+Tweet 32 -> Negatif: Ulangi Tweet 20 dan 25; dampak negatif kandungan etanol pada mesin kendaraan.
+
+Tweet 33 -> Negatif: Kritik terhadap Vivo dan BP yang secara tidak langsung membuktikan bahwa produk Pertamina tidak dapat dipercaya, mungkin disengaja untuk membuat orang pindah ke EV (vehikel elektrik).
+
+Tweet 34 -> Positif: Dukungan terhadap standar mutu nasional dan kerjasama energi yang lebar peluangnya.
+
+Tweet 35 -> Ulangi Tweet 20 dan 25; dampak negatif kandungan etanol pada mesin kendaraan.
+
+Tweet 36 -> Netral: Faktual, menyebutkan banyaknya negara internasional yang menggunakan base fuel dengan kandungan etanol di international level.
+
+Tweet 37 -> Positif: Dukungan terhadap standar BBM nasional dan harapan sinergi baru dalam kolaborasi energi.
+
+Tweet 38 -> Netral: Faktual, membahas tentang kompatibilitas kendaraan baru dengan etanol tetapi masalah potensial untuk kendaraan lama.
+
+Tweet 39 -> Netral: Faktual, menyebutkan standar pembatalan pasokan ke SPBU swasta bukan soal mutu; peluang sinergi baru menanti.
+
+Tweet 40 -> Positif: Dukungan terhadap Pertamina yang berada pada jalur benar sesuai regulasi dan target pengurangan emisi karbon.
+Tweet 41 -> Netral
+Tweet 42 -> Positif
+Tweet 43 -> Positif
+Tweet 44 -> Netral
+Tweet 45 -> Netral
+Tweet 46 -> Positif
+Tweet 47 -> Netral
+Tweet 48 -> Positif
+Tweet 49 -> Netral
+Tweet 50 -> Positif
+Tweet 51 -> Positif
+Tweet 52 -> Netral
+Tweet 53 -> Positif
+Tweet 54 -> Netral
+Tweet 55 -> Netral
+Tweet 56 -> Netral
+Tweet 57 -> Netral
+Tweet 58 -> Netral
+Tweet 59 -> Positif
+Tweet 60 -> Netral
+Tweet 61 -> Positif
+Tweet 62 -> Positif
+Tweet 63 -> Netral
+Tweet 64 -> Negatif
+Tweet 65 -> Negatif
+Tweet 66 -> Netral
+Tweet 67 -> Netral
+Tweet 68 -> Netral
+Tweet 69 -> Positif
+Tweet 70 -> Negatif
+Tweet 71 -> Positif
+Tweet 72 -> Netral
+Tweet 73 -> Positif
+Tweet 74 -> Netral
+Tweet 75 -> Positif
+Tweet 76 -> Netral
+Tweet 77 -> Negatif
+Tweet 78 -> Positif
+Tweet 79 -> Negatif
+Tweet 80 -> Netral
+Tweet 81 -> Netral: Informatif, faktual, tanpa emosi kuat (Pertamina beri penjelasan soal kandungan etanol pada bensin)
+
+Tweet 82 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Apr dan Vivo batal membeli BBM dari Pertamina karena kandungan etanol tidak sesuai kriteria mereka)
+
+Tweet 83 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Dirjen Migas Laode Suleman mengatakan alasan SPBU swasta seperti Shell, BP, dan Vivo yang batal membeli BBM base fuel dari Pertamina karena kandungan etanol)
+
+Tweet 84 -> Netral: Informatif, faktual, tanpa emosi kuat (Investigasi cek sumber resmi untuk update tentang kargo Pertamina yang memiliki kandungan etanol)
+
+Tweet 85 -> Netral: Informatif, faktual, tanpa emosi kuat (Ethanol memiliki kandungan air, tetapi masih alkohol)
+
+Tweet 86 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Kandungan etanol yang diberikan untuk balap terlalu tinggi)
+
+Tweet 87 -> Netral: Informatif, faktual, tanpa emosi kuat (Soal kandungan etanol di BBM aman atau tidak untuk mesin ini, kata pakar)
+
+Tweet 88 -> Positif: Dukungan, kepuasan, optimis terhadap kebijakan/produk (Pertamina ungkap alasan penggunaan etanol dalam BBM setelah Vivo batal beli base fuel karena kandungan etanol 3-5%)
+
+Tweet 89 -> Netral: Informatif, faktual, tanpa emosi kuat (Data dari Shell Indonesia dan sumber terkini menunjukkan kandungan etanol di VPower adalah 0%, produk ini tidak mengandung etanol di pasar Indonesia)
+
+Tweet 90 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Belum Vivo batal beli juga soal ada kandungan 3% etanol)
+
+Tweet 91 -> Positif: Dukungan, kepuasan, optimis terhadap kebijakan/produk (Kandungan etanol di BBM Pertamina praktik internasional energi rendah emisi)
+
+Tweet 92 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Jika pemerintah membuat regulasi kandungan etanol 20%, artinya selama ini pemerintah ngrusak kendaraan)
+
+Tweet 93 -> Netral: Informatif, faktual, tanpa emosi kuat (Secara fisika dan kimia pembakaran etanol memang punya keunggulan dengan oksigen lebih tinggi dan emisi CO dan HC turun. Tetapi masalahnya mobil di pasaran Indonesia)
+
+Tweet 94 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Ramai ditolak SPBU swasta apa dampak kandungan etanol pada BBM untuk mobil motor)
+
+Tweet 95 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Vivo batal beli BBM impor dari Pertamina karena kandungan etanol 3-5%, tetapi publik tanya siapa yang dirugikan sungguh)
+
+Tweet 96 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Setelah sepakat SPBU swasta Vivo dan BP Akr akhirnya batal membeli base fuel BBM tanpa campuran aditif dari Pertamina akibat kandungan etanol 3-5% yang tidak sesuai standar mereka)
+
+Tweet 97 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Tinggi kandungan etanol Vivo dan Akr batal beli BBM Pertamina terbongkar kejahatan Pertamina)
+
+Tweet 98 -> Netral: Informatif, faktual, tanpa emosi kuat (Apa dampak kandungan etanol pada BBM untuk mesin kendaraan jika BP dan Vivo membatalkan pembelian dari Pertamina?)
+
+Tweet 99 -> Netral: Informatif, faktual, tanpa emosi kuat (SPBU asing batal beli BBM Pertamina buka suara soal kandungan etanol)
+
+Tweet 100 -> Netral: Informatif, faktual, tanpa emosi kuat (Penjelasan Pertamina soal kandungan etanol di BBM)
+
+Tweet 101 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Berdasarkan laporan terbaru dari Pertamina dan RDP dengan DPR Shell BPAKR dan Vivo batal beli base fuel karena kandungan etanol 3-5% yang tidak sesuai standar mereka. Shell juga terkendala prosedur birokrasi internal)
+
+Tweet 102 -> Positif: Dukungan, kepuasan, optimis terhadap kebijakan/produk (SPBU swasta tanggung jawab atas permasalahan ini; respons Pertamina)
+
+Tweet 103 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Vivo Energy Indonesia dan BPAKR membatalkan kesepakatan pembelian 100 ribu barel base fuel dari Pertamina akibat kandungan etanol sebesar 3-5%)
+
+Tweet 104 -> Positif: Dukungan, kepuasan, optimis terhadap kebijakan/produk (Kandungan etanol dalam BBM memang cenderung meningkat untuk alasan lingkungan; etanol bisa baik untuk mesin octane tinggi dengan emisi lebih rendah)
+
+Tweet 105 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Shell CS batal beli BBM gara-gara kandungan etanol; penjelasan Pertamina)
+
+Tweet 106 -> Positif: Dukungan, kepuasan, optimis terhadap kebijakan/produk (Kendaraan yang dapat memakai BBM Etanol campuran hingga 5% sehingga minimalisir efek; tambahan aditif dapat meminimalisir efek negatif)
+
+Tweet 107 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Permasalahan nya adalah kandungan etanol tetapi mengapa Pertamina sudah menyisihkan stok BBM Ron 92 dan 98?)
+
+Tweet 108 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (SPBU kompak batal beli BBM dari Pertamina akibat kandungan tak sesuai; ada etanol dalam BBM Pertamina ini kurang ajar)
+
+Tweet 109 -> Netral: Informatif, faktual, tanpa emosi kuat (Berapa persen kendaraan di Indonesia tidak bermasalah dengan tinggi kandungan etanol tetapi masih ada potensi korosi?)
+
+Tweet 110 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Rencana kolaborasi antara Pertamina dengan SPBU swasta gagal terwujud akibat adanya kandungan etanol sebesar 3-5% dalam base fuel Pertamina)
+
+Tweet 111 -> Netral: Informatif, faktual, tanpa emosi kuat (Menurut regulasi Indonesia 20% diperbolehkan di BBM; secara hukum wajar. Namun untuk base fuel import biasanya diharapkan minimal etanol)
+
+Tweet 112 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Dua perusahaan SPBU swasta Vivo Energy Indonesia dan BPAKR membatalkan rencana pembelian base fuel BBM dari Pertamina setelah temuan adanya kandungan etanol sebesar 3-5%)
+
+Tweet 113 -> Netral: Informatif, faktual, tanpa emosi kuat (Apakah wajar adanya kandungan etanol sebesar 3-5% dalam base fuel?) 
+
+Tweet 114 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Vivo dan BP merugikan motor dan pemerintah dengan tinggi etanol dalam base fuel Pertamina) 
+
+Tweet 115 -> Netral: Informatif, faktual, tanpa emosi kuat (Kandangan etanol dalam base fuel di luar negeri maksimal 10%, misalnya BP dan Shell di luar negeri rata-rata mengandung etanol sekitar 5%-10%. Base fuel Pertamina sekarang adalah 3-5%, tetapi di Pertamax hanya ada informasi tentang BBM Etanol hanya sekitar 5%) 
+
+Tweet 116 -> Netral: Informatif, faktual, tanpa emosi kuat (Alasannya SPBU swasta batal beli BBM dari Pertamina adalah soal adanya etanol) 
+
+Tweet 117 -> Netral: Informatif, faktual, tanpa emosi kuat (Tim gabungan penyidik akan mengecek adanya etanol di BBM Pertamina. Tetapi tweet ini berisi humor dan tidak memberikan sentimen yang jelas) 
+
+Tweet 118 -> Netral: Informatif, faktual, tanpa emosi kuat (Ethanol mengatur nilai oktan dalam bahan bakar. Ethanol dapat memiliki efek negatif pada performa mobil tertentu) 
+
+Tweet 119 -> Netral: Informatif, faktual, tanpa emosi kuat (Ethanol mengatur nilai oktan dalam bahan bakar. Ethanol dapat memiliki efek negatif pada performa mobil tertentu - ulasan sama dengan Tweet 118) 
+
+Tweet 120 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan (Vivo dan APR membatalkan pembelian BBM dari Pertamina akibat adanya etanol sebesar 3-5% dalam base fuel; mungkin mereka mencari standar yang lebih rendah dari regulasi yang diperbolehkan hingga 20%)
+Tweet 121 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 122 -> Negatif: Kritik, keluhan
+Tweet 123 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 124 -> Negatif: Alasan
+Tweet 125 -> Negatif: Kritik, keluhan
+Tweet 126 -> Netral: Informatif, faktual
+Tweet 127 -> Negatif: Kritik, keluhan, persoalan korupsi
+Tweet 128 -> Negatif: Kritik, keluhan
+Tweet 129 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 130 -> Negatif: Alasan
+Tweet 131 -> Netral: Persoalan, tidak jelas sentimen
+Tweet 132 -> Negatif: Kritik, keluhan
+Tweet 133 -> Netral: Informatif, faktual (dengan sudut positif tentang etanol sebagai aditif)
+Tweet 134 -> Negatif: Alasan
+Tweet 135 -> Netral: Informatif, faktual (dengan sudut negatif terhadap dampak minimal)
+Tweet 136 -> Negatif: Kritik, keluhan
+Tweet 137 -> Negatif: Kritik, keluhan
+Tweet 138 -> Netral: Persoalan tanpa sentimen kuat
+Tweet 139 -> Negatif: Alasan
+Tweet 140 -> Negatif: Alasan
+Tweet 141 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 142 -> Positif: Dukungan, kepuasan (dengan sudut negatif tentang potensi bahaya)
+Tweet 143 -> Negatif: Kritik, keluhan
+Tweet 144 -> Netral: Persoalan tanpa sentimen kuat
+Tweet 145 -> Negatif: Alasan
+Tweet 146 -> Negatif: Alasan
+Tweet 147 -> Negatif: Kritik, keluhan
+Tweet 148 -> Netral: Informatif, faktual (dengan sudut positif dan negatif tentang etanol)
+Tweet 149 -> Negatif: Alasan
+Tweet 150 -> Negatif: Alasan
+Tweet 151 -> Negatif: Alasan (berdasarkan konteks rapat DPR)
+Tweet 152 -> Netral: Informatif, faktual (dengan perbandingan dengan standar di UK)
+Tweet 153 -> Negatif: Alasan
+Tweet 154 -> Negatif: Alasan
+Tweet 155 -> Netral: Persoalan tanpa sentimen kuat
+Tweet 156 -> Negatif: Kritik, keluhan
+Tweet 157 -> Negatif: Kritik, keluhan
+Tweet 158 -> Netral: Informatif, faktual (dengan pengalaman pribadi)
+Tweet 159 -> Negatif: Alasan
+Tweet 160 -> Netral: Persoalan tanpa sentimen kuat
+Tweet 161 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 162 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 163 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 164 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 165 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 166 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 167 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 168 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 169 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 170 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 171 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 172 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 173 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 174 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 175 -> Positif: Dukungan, kepuasan, optimis terhadap kebijakan/produk
+Tweet 176 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 177 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 178 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 179 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 180 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 181 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 182 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 183 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 184 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 185 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 186 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 187 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 188 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 189 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 190 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 191 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 192 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 193 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 194 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 195 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 196 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 197 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 198 -> Negatif: Kritik, keluhan, kekhawatiran
+Tweet 199 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 200 -> Netral: Informatif, faktual, tanpa emosi kuat
+Tweet 201 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan.
+Tweet 202 -> Negatif: Kritik, keluhan, kekhawatiran, kemarahan.
+
+Tweet 201 menunjukkan keluhan dan kekhawatiran dari Vivo dan BP mengenai kandungan etanol dalam BBM Pertamina, yang menyebabkan mereka membatalkan perjanjian pembelian. Tweet 202 juga menunjukkan kritik dan kekhawatiran, dengan wakil direktur utama tidak yakin tentang kandungan etanol dan mengakui sulitnya untuk usaha swasta tersebut. Kedua tweet menyampaikan sentimen negatif terhadap situasi.
+
+======================================================================
+STATISTIK:
+Total Tweet: 201
+Positif: 27 (13.4%)
+Negatif: 90 (44.8%)
+Netral: 84 (41.8%)
+
+======================================================================
+INSIGHT & FINDINGS:
+**INSIGHT & FINDINGS**
+
+1. **Persepsi Umum**:
+   Distribusi sentimen menunjukkan bahwa sentimen publik lebih tebal negatif (44.8%) berbanding positif (13.4%) dan netral (41.8%). Ini menunjukkan bahwa polemik etanol BBM Pertamina menciptakan persepsi negatif yang lebih dominan dalam masyarakat.
+
+2. **Topik Dominan**:
+   - **Tweet Negatif**: Topik utama yang dikeluhkan adalah harga BBM yang tinggi akibat penggunaan etanol, keterbatasan penawaran BBM, dan pernyataan kebijakan Pertamina yang dianggap tidak mencukupi dalam mendukung kebutuhan konsumen.
+   - **Tweet Positif**: Tweet positif lebih sedikit, namun mereka sering mempertimbangkan manfaat etanol sebagai sumber energi terbarukan dan potensial untuk menurunkan emisi karbon.
+   - **Tweet Netral**: Tweet netral seringkali menyampaikan fakta dan informasi teknis mengenai etanol, sumber daya, dan pola harga pasar.
+
+3. **Pihak yang Disorot**:
+   - **Pertamina**: Sebagai produsen BBM dan penyedia etanol, Pertamina menjadi sasaran utama kritik dan pertanyaan.
+   - **Pemerintah**: Dianggap perlu berperan aktif dalam menegakkan hak konsumen dan mendorong keadilan harga.
+   - **Vivo, BP, Shell**: Mencantumkan perusahaan alternatif BBM yang juga muncul dalam diskusi, sebagai kompetitor atau alternatif.
+
+4. **Rekomendasi Strategis untuk Pertamina**:
+   - **Transparansi Komunikasi**: Pertamina harus meningkatkan komunikasi transparan mengenai kebijakan, sumber daya, dan rancangan masa depan.
+   - **Harga dan Kebijakan**: Pertamina perlu menyusun strategi harga yang lebih adil dan terpadu, mencari titik tengah antara kepentingan bisnis dan kebutuhan konsumen.
+   - **Inovasi dan Alternatif**: Pertamina bisa mengembangkan inovasi dalam produksi etanol dan menyediakan alternatif energi yang lebih lancar untuk mengurangi kekesalan konsumen.
+
+5. **Kesimpulan Utama**:
+   Kesimpulan utama dari analisis sentimen adalah bahwa polemik etanol BBM Pertamina menciptakan persepsi negatif yang dominan, terutama terkait dengan harga tinggi dan keterbatasan penawaran. Perusahaan dan pemerintah perlu bekerja sama dalam meningkatkan transparansi, mengembangkan strategi harga yang adil, dan mendorong inovasi untuk mengatasi masalah tersebut.
